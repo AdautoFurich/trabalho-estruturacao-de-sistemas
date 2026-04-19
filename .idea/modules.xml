@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/exercicio1_basico/exercicio1_basico.iml" filepath="$PROJECT_DIR$/exercicio1_basico/exercicio1_basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio1_mvc/exercicio1_mvc.iml" filepath="$PROJECT_DIR$/exercicio1_mvc/exercicio1_mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio2_basico/exercicio2_basico.iml" filepath="$PROJECT_DIR$/exercicio2_basico/exercicio2_basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio2_mvc/exercicio2_mvc.iml" filepath="$PROJECT_DIR$/exercicio2_mvc/exercicio2_mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio3_basico/exercicio3_basico.iml" filepath="$PROJECT_DIR$/exercicio3_basico/exercicio3_basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio3_mvc/exercicio3_mvc.iml" filepath="$PROJECT_DIR$/exercicio3_mvc/exercicio3_mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/projetos_java_quadra_biblioteca_lanchonete.iml" filepath="$PROJECT_DIR$/.idea/projetos_java_quadra_biblioteca_lanchonete.iml" />
+    </modules>
+  </component>
+</project>
